@@ -7,7 +7,7 @@
 This tutorial level seems to be useful on several levels. Most explicitly, it guides us (the students) through making a github account and generally becoming acquainted with the software we'll be using:
 > The tutorial will walk you through setting up your Github account, and installing (and using) Obsidian on your machine.
 
-(Graham, 2022). 
+[(Graham, 2022)](https://shawngraham.github.io/hist1900/#get-started). 
 
 For example just now I've practiced quoting something with markdown formatting. I don't know if I did it perfectly but I had to look through the documentation and, you know, practice.
 
